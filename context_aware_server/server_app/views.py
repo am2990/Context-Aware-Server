@@ -7,6 +7,7 @@ import json
 # Create your views here.
 def store(request):
 	if request.method == 'POST':
+		#TODO:
 		# print "POST request has come"
 		# Parse data using request.body
 		# json parse
